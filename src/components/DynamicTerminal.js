@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 
 const terminalLines = [
-  { command: "whoami", output: "Shubham Jadhav" },
+  { command: "whoami", output: "Nisha Makone" },
   {
     command: 'echo "Write clean code, test often, refactor always."',
     output: "Write clean code, test often, refactor always.",

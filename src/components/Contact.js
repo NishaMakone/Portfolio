@@ -27,7 +27,7 @@ const Contact = () => {
 
         <div className="contact-icons">
           <a
-            href="mailto:shubhamja3333@gmail.com"
+            href="mailto:makonenisha@gmail.com"
             className="contact-icon"
             target="_blank"
             rel="noopener noreferrer"
@@ -35,7 +35,7 @@ const Contact = () => {
             <Mail />
           </a>
           <a
-            href="https://www.linkedin.com/in/shubham-jadhav-sj/"
+            href="https://www.linkedin.com/in/nisha-makone/"
             className="contact-icon"
             target="_blank"
             rel="noopener noreferrer"
@@ -43,7 +43,7 @@ const Contact = () => {
             <Linkedin />
           </a>
           <a
-            href="https://github.com/shubham03333"
+            href="https://github.com/NishaMakone"
             className="contact-icon"
             target="_blank"
             rel="noopener noreferrer"

@@ -25,9 +25,9 @@ const About = () => {
           >
             {/* About Text */}
             <p className="about-text">
-              Hey there! 👋 I'm <strong>Shubham Jadhav</strong>, a{" "}
+              Hey there! 👋 I'm <strong>Nisha Makone</strong>, a{" "}
               <strong>Java Backend Developer</strong> with{" "}
-              <strong>3+ years of experience</strong> building clean, scalable
+              <strong>2 years of experience</strong> building clean, scalable
               applications using{" "}
               <strong>
                 <em>Java</em>
@@ -48,9 +48,9 @@ const About = () => {
               <strong>
                 <em>MySQL</em>
               </strong>{" "}
-              <strong>
+             /* <strong>
                 <em>Oracle</em>
-              </strong>{" "}
+              </strong> {" "} */
               👋), and occasionally dabbling in{" "}
               <strong>
                 <em>React</em>
@@ -62,9 +62,9 @@ const About = () => {
                 <em>Maven</em>
               </strong>{" "}
               to{" "}
-              <strong>
+             /* <strong>
                 <em>Docker</em>
-              </strong>
+              </strong>*/
               ,{" "}
               <strong>
                 <em>Git</em>
@@ -83,17 +83,15 @@ const About = () => {
               <br />
               <br />
               <strong>Outside work</strong>, I'm a{" "}
-              <strong>Cricket Enthusiast 🏏</strong> who finds joy in smashing
-              sixes, a <strong>Wanderluster 🌍</strong> always chasing new
-              destinations, and a <strong>Foodie 🍕</strong> on a mission to
-              discover the next great bite.
+              <strong>Yoga Enthusiast🧘‍♀️</strong> (still mastering the art of not falling asleep in savasana) 
+              devotion, a <strong>Wanderluster 🌍</strong>chasing mountains, starlit skies, and beaches while collecting “deep” travel stories no one asked for,
+               <strong>Foodie 🍕</strong>proudly eating my way through life one bite at a time.
               <br />
               Love <strong>spontaneous road trips 🛣️</strong>,{" "}
-              <strong>binge-worthy TV shows 📺</strong>, and the occasional{" "}
-              <strong>chai break ☕️</strong> and you've got the perfect mix of{" "}
+              <strong>binge-worthy TV shows 📺</strong>, and you've got the perfect mix of{" "}
               <strong>code</strong> and <strong>chaos</strong>.
               <br />
-              <strong>Fun fact:</strong>I have more tabs open than secrets 🤫.
+              <strong>Fun fact:</strong>I’ve mastered the art of opening 99 Chrome tabs without losing my sanity (mostly) 🖥️.
             </p>
 
             {/* My Coding Mantra Terminal Box */}

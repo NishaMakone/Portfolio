@@ -52,7 +52,7 @@ const skillsData = {
     Tools: [
         { name: 'Maven', icon: <SiApachemaven size={60} color="#C71A36" /> },
         { name: 'Jira', icon: <SiJira size={60} color="#0052CC" /> },
-        { name: 'Perforce', icon: <VscSourceControl size={60} color="#005CAB" /> },
+       // { name: 'Perforce', icon: <VscSourceControl size={60} color="#005CAB" /> },
         { name: 'Postman', icon: <SiPostman size={60} color="#FF6C37" /> },
     ],
     Dev: [

@@ -6,30 +6,18 @@ import { Briefcase } from "lucide-react";
 
 const experienceData = [
   {
-    role: "Software Engineer",
+    role: "Software Engineering Associate",
     company: "Amdocs",
     logo: amdocsLogo,
-    date: "Jan 2024 - Present",
-    client: "Client: Telkom South Africa & 3UK",
+    date: "May 2022 - Nov 2023",
+    client: "Client: AT&T - DTV Billing System",
     responsibilities: [
-      "PMX Upgrade: Executed the PMX upgrade for AMSS (Amdocs Multi Self Service Channel), enhancing integration with CES and third-party applications, reducing deployment issues up to 25%.",
-      "Security Enhancements: Resolved 100+ security vulnerabilities in Checkmarx, mitigating critical threats such as XSS, Cleartext Password Exposure, and other high-risk vulnerabilities, strengthening customer data security",
-      "CRM Optimization & Enterprise Solutions: Developed and implemented customized CRM systems, to align with client-specific organizational workflows, enhancing process efficiency by 15% and improving user adoption by 15%.",
-      "Seamless Data Flow: Collaborated with OMS, ABP (Billing), and DEX (Digital) applications to maintain seamless data flow and achieve zero API failures",
-    ],
-  },
-  {
-    role: "Associate Software Engineer",
-    company: "Amdocs",
-    logo: amdocsLogo,
-    date: "May 2022 - Dec 2023",
-    client: "Client: 3UK",
-    responsibilities: [
-      "CRM Optimization & Enterprise Solutions: Developed and implemented customized CRM systems, to align with client-specific organizational workflows, enhancing process efficiency by 15% and improving user adoption by 15%.",
-      "Seamless Data Flow: Collaborated with OMS, ABP (Billing), and DEX (Digital) applications to maintain seamless data flow and achieve zero API failures.",
-      "Improved performance and scalability of core telecom services, ensuring consistent and reliable service delivery.",
-      "Collaborated in Agile Scrum teams with QA, DevOps, and Infra, contributing to sprint planning, reviews, and retrospectives.",
-      "Conducted unit testing with JUnit and integration testing using Postman and console-based EJB simulators.",
+      "Developed and enhanced core billing modules, improving processing speed by 25% through optimized backend logic",
+      "Implemented scalable microservices to manage offers and billing rules, increasing maintainability and system clarity",
+      "Designed REST APIs and integrated them with the React frontend, achieving 35% faster API response times.",
+      "Resolved 95% of production issues within 24 hours via root-cause analysis and performance debugging.",
+      "Automated CI/CD workflows with Jenkins, cutting manual efforts by 40% and release cycles by 30%",
+      "-	Automated CI/CD workflows with Jenkins, cutting manual efforts by 40% and release cycles by 30%"
     ],
   },
 ];

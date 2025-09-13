@@ -2,39 +2,11 @@ import React, { useState } from "react";
 import "../styles/Projects.css";
 import { motion } from "framer-motion";
 import { FaGithub } from "react-icons/fa";
-import hmsImg from "../assets/rto.png";
-import sbmImg from "../assets/sbm1.jpg";
-import awsdeployImg from "../assets/awsdeploy.png";
 import websiteImg from "..//assets/websiteImg.png";
 import { FolderKanban } from "lucide-react";
 
 const projects = [
-  {
-    title: "RTO Management System",
-    tech: "ReactJS, Spring Boot, Spring Data JPA, MySQL, AWS",
-    description:
-      "The RTO Management System is designed following SOLID design principles, facilitating efficient RTO operations and streamlined communication among staff. The project consists of a React.js frontend and a Spring Boot backend, with MySQL as the database.",
-    image: hmsImg,
-    github: "https://github.com/shubham03333/rto-management-system-FE.git",
-  },
-  //   {
-  //     title: "Quiz Management Microservices using Spring Boot & Spring Cloud",
-  //     tech: "Spring Boot, Spring Cloud, REST APIs, Eureka Service Registry & Discovery, API Gateway, Load Balancing, Java, Maven, Postman",
-  //     description:
-  //       "The Quiz-Question system is architected using Spring Boot microservices and leverages Spring Cloud components for scalability and maintainability. Inter-service communication is enabled between the Quiz and Question service via Feign Client, with Eureka Service Registry facilitating dynamic service discovery. An API Gateway (Spring Cloud Gateway) is implemented to handle centralized routing, load balancing, and request forwarding across services.",
-  //     image: sbmImg,
-  //     // github: "https://github.com/Vishalvj13/microservices-spring-boot",
-  //   },
-  //   {
-  //     title:
-  //       "End-to-End Deployment of Employee Management System on AWS using Spring Boot, ReactJS, and MySQL with EC2, S3, and RDS",
-  //     tech: "AWS, EC2, S3, RDS, Java, Spring Boot, REST APIs, ReactJS, MySQL",
-  //     description:
-  //       "The Employee Management System leverages a cloud-native AWS architecture for optimal scalability and reliability. The Spring Boot backend runs on Amazon EC2 offering complete control over the compute environment, the ReactJS frontend is hosted on Amazon S3 as a static website and delivered globally using Amazon CloudFront, a content delivery network (CDN) that ensures low-latency and high-speed access. Amazon RDS (MySQL) is used for reliable and scalable relational data storage, with features like automated backups, monitoring, and high availability. IAM ensures secure access control, enabling a fully integrated, secure, and efficient deployment.",
-  //     image: awsdeployImg,
-  //     github:
-  //     //   "https://github.com/Vishalvj13/reat.js-springboot-mysql-aws-deployment",
-  //   },
+
   {
     title:
       "A responsive, animated live portfolio website designed to showcase my personal brand, technical skills, projects, experience, and certifications in an engaging and modern format.",
@@ -42,7 +14,7 @@ const projects = [
     description:
       "This portfolio serves as a dynamic digital resume, built to highlight my professional journey and achievements with smooth animations and clean design. The site features sections like About, Skills, Projects, Experience, Education, and Contact all crafted with interactive elements. It’s a central hub for recruiters and collaborators to view my credentials and work at a glance.",
     image: websiteImg,
-    github: "https://github.com/shubham03333/portfolio-june-25.git",
+    github: "https://github.com/NishaMakone",
   },
 ];
 
