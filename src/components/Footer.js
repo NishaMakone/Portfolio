@@ -5,18 +5,18 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <h3 className="footer-name">Shubham Jadhav</h3>
+        <h3 className="footer-name">Nisha Makone</h3>
 
         <div className="footer-socials">
           <a
-            href="https://github.com/shubham03333"
+            href="https://github.com/NishaMakone"
             target="_blank"
             rel="noopener noreferrer"
           >
             GitHub
           </a>
           <a
-            href="https://www.linkedin.com/in/shubham-jadhav-sj/"
+            href="https://www.linkedin.com/in/nisha-makone/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ const Footer = () => {
       </div>
       <div className="footer-bottom">
         <p>
-          &copy; {new Date().getFullYear()} Shubham Jadhav | All Rights Reserved
+          &copy; {new Date().getFullYear()} Nisha Makone | All Rights Reserved
         </p>
       </div>
     </footer>
